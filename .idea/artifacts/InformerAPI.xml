@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InformerAPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/InformerAPI</output-path>
+    <root id="archive" name="InformerAPI.jar">
+      <element id="module-output" name="InformerAPI" />
+    </root>
+  </artifact>
+</component>
